@@ -1,6 +1,6 @@
 # Meeting Minutes 2 - Group 5
 **Date:** October 7, 2025  
-**Role:** Project Manager - Trevon [Last Name]  
+**Role:** Project Manager - Trevon Lacy
 
 ## Summary of Meeting
 - Confirmed all members have access to the shared GitHub repository.  
