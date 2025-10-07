@@ -1,5 +1,5 @@
 # Product Vision - Group 5
-**Role:** Project Manager - Trey [Last Name]
+**Role:** Project Manager - Trevon Lacy
 
 ## Overview
 Our team is developing a **Campus Resource Connection Platform** that allows students to quickly and easily access university services and resources in real time.
